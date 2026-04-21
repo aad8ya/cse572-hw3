@@ -1,0 +1,4 @@
+metric,avg_acc
+euclidean,0.5979800000000001
+cosine,0.6013200000000001
+jaccard,0.50368

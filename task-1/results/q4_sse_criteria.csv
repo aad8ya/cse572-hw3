@@ -1,0 +1,10 @@
+metric,criterion,avg_sse,avg_iter
+euclidean,centroid,25374033350.828983,76.8
+euclidean,sse,25374033350.828983,500.0
+euclidean,max_iter,25374916514.037663,100.0
+cosine,centroid,685.3602896532337,65.4
+cosine,sse,686.5867162060756,35.8
+cosine,max_iter,685.3602896532337,100.0
+jaccard,centroid,3684.75858561113,65.6
+jaccard,sse,4029.365799393833,2.0
+jaccard,max_iter,3685.1589357921803,100.0

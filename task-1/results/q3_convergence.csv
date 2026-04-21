@@ -1,0 +1,4 @@
+metric,avg_iter,avg_time_s
+euclidean,76.8,3.479345273971558
+cosine,35.8,1.8620664596557617
+jaccard,2.0,0.4686401844024658
